@@ -1,6 +1,7 @@
-# Hey Guys! For more Games & Tutorials Follow Me on:
-## ▶️ Youtube:
-https://www.youtube.com/channel/UCLqXQLK6zKZg0trhanjAkkQ
+# Game Snapshots
 
-## 🔥 Instagram:
-https://www.instagram.com/coding_sp0t/?hl=es-la
+## Snapshot 1 - Start
+![snapshot1](snapshots/snapshot1.png)
+
+## Snapshot 2 - Playing
+![snapshot1](snapshots/snapshot2.png)
